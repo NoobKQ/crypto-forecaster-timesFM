@@ -1,0 +1,8 @@
+timesfm==2.0.1
+yfinance==1.4.1
+pandas==2.3.2
+numpy==2.2.6
+matplotlib==3.10.6
+openpyxl==3.1.5
+torch==2.12.1
+requests==2.32.5
