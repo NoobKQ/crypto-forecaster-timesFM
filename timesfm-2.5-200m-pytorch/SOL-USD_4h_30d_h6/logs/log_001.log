@@ -1,0 +1,17 @@
+[2026-07-19 18:09:47] 
+[2026-07-19 18:09:47] ================================================================================
+[2026-07-19 18:09:47] PROCESSING SOL-USD
+[2026-07-19 18:09:47] ================================================================================
+[2026-07-19 18:09:47] 
+[2026-07-19 18:09:47] --- STAGE 1: DOWNLOADING DATA ---
+[2026-07-19 18:09:47] Downloading data for SOL-USD (period=30d, interval=4h)...
+[2026-07-19 18:09:47] Data downloaded successfully. Total rows: 179
+[2026-07-19 18:09:47] 
+[2026-07-19 18:09:47] --- STAGE 2: EVALUATING LATEST FORECAST ---
+[2026-07-19 18:09:47] No log file found. Skipping evaluation.
+[2026-07-19 18:09:47] No evaluation needed.
+[2026-07-19 18:09:47] 
+[2026-07-19 18:09:47] --- STAGE 3: GENERATING NEW FORECAST ---
+[2026-07-19 18:09:47] Running future forecast for horizon=6...
+[2026-07-19 18:09:48] Logged new future forecast ID 1 at row 2. Pending actuals.
+[2026-07-19 18:09:48] SOL-USD completed. Forecast ID: 1
