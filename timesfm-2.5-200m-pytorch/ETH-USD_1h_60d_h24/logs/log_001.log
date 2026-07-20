@@ -1,0 +1,17 @@
+[2026-07-20 03:51:53] 
+[2026-07-20 03:51:53] ================================================================================
+[2026-07-20 03:51:53] PROCESSING ETH-USD
+[2026-07-20 03:51:53] ================================================================================
+[2026-07-20 03:51:53] 
+[2026-07-20 03:51:53] --- STAGE 1: DOWNLOADING DATA ---
+[2026-07-20 03:51:53] Downloading data for ETH-USD (period=60d, interval=1h)...
+[2026-07-20 03:51:53] Data downloaded successfully. Total rows: 1420
+[2026-07-20 03:51:53] 
+[2026-07-20 03:51:53] --- STAGE 2: EVALUATING LATEST FORECAST ---
+[2026-07-20 03:51:53] No log file found. Skipping evaluation.
+[2026-07-20 03:51:53] No evaluation needed.
+[2026-07-20 03:51:53] 
+[2026-07-20 03:51:53] --- STAGE 3: GENERATING NEW FORECAST ---
+[2026-07-20 03:51:53] Running future forecast for horizon=24...
+[2026-07-20 03:51:54] Logged new future forecast ID 1 at row 2. Pending actuals.
+[2026-07-20 03:51:54] ETH-USD completed. Forecast ID: 1
