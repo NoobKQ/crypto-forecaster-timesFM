@@ -1,0 +1,23 @@
+[2026-08-28 11:07:18] 
+[2026-08-28 11:07:18] ================================================================================
+[2026-08-28 11:07:18] PROCESSING ETH-USD
+[2026-08-28 11:07:18] ================================================================================
+[2026-08-28 11:07:18] 
+[2026-08-28 11:07:18] --- STAGE 1: DOWNLOADING DATA ---
+[2026-08-28 11:07:18] Downloading data for ETH-USD (period=60d, interval=1h)...
+[2026-08-28 11:07:18] Data downloaded successfully. Total rows: 1407
+[2026-08-28 11:07:18] 
+[2026-08-28 11:07:18] --- STAGE 2: EVALUATING LATEST FORECAST ---
+[2026-08-28 11:07:18] Latest forecast (row 40) is pending. Evaluating...
+[2026-08-28 11:07:18]   ForecastTime:    2026-08-27 08:54:22
+[2026-08-28 11:07:18]   Rounded to:      2026-08-27 08:00:00
+[2026-08-28 11:07:18]   Target windows:  2026-08-27 09:00:00 to 2026-08-28 08:00:00
+[2026-08-28 11:07:18]   Data range:      2026-06-30 00:00:00 to 2026-08-28 11:00:00
+[2026-08-28 11:07:18]   -> Updated ForecastDetails row 40.
+[2026-08-28 11:07:18]   -> Metrics: last_actual=2488.66, abs_error=27.46, pct_error=1.10%, mape=0.63%
+[2026-08-28 11:07:18] Pending forecast evaluated.
+[2026-08-28 11:07:18] 
+[2026-08-28 11:07:18] --- STAGE 3: GENERATING NEW FORECAST ---
+[2026-08-28 11:07:18] Running future forecast for horizon=24...
+[2026-08-28 11:07:19] Logged new future forecast ID 40 at row 41. Pending actuals.
+[2026-08-28 11:07:19] ETH-USD completed. Forecast ID: 40
