@@ -1,0 +1,23 @@
+[2026-10-06 06:02:26] 
+[2026-10-06 06:02:26] ================================================================================
+[2026-10-06 06:02:26] PROCESSING BTC-USD
+[2026-10-06 06:02:26] ================================================================================
+[2026-10-06 06:02:26] 
+[2026-10-06 06:02:26] --- STAGE 1: DOWNLOADING DATA ---
+[2026-10-06 06:02:26] Downloading data for BTC-USD (period=30d, interval=4h)...
+[2026-10-06 06:02:26] Data downloaded successfully. Total rows: 176
+[2026-10-06 06:02:26] 
+[2026-10-06 06:02:26] --- STAGE 2: EVALUATING LATEST FORECAST ---
+[2026-10-06 06:02:26] Latest forecast (row 79) is pending. Evaluating...
+[2026-10-06 06:02:26]   ForecastTime:    2026-10-05 05:18:20
+[2026-10-06 06:02:26]   Rounded to:      2026-10-05 04:00:00
+[2026-10-06 06:02:26]   Target windows:  2026-10-05 08:00:00 to 2026-10-06 04:00:00
+[2026-10-06 06:02:26]   Data range:      2026-09-07 00:00:00 to 2026-10-06 04:00:00
+[2026-10-06 06:02:26]   -> Updated ForecastDetails row 79.
+[2026-10-06 06:02:26]   -> Metrics: last_actual=85388.46, abs_error=73.38, pct_error=0.09%, mape=0.39%
+[2026-10-06 06:02:26] Pending forecast evaluated.
+[2026-10-06 06:02:26] 
+[2026-10-06 06:02:26] --- STAGE 3: GENERATING NEW FORECAST ---
+[2026-10-06 06:02:26] Running future forecast for horizon=6...
+[2026-10-06 06:02:27] Logged new future forecast ID 79 at row 80. Pending actuals.
+[2026-10-06 06:02:27] BTC-USD completed. Forecast ID: 79
