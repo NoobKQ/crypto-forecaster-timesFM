@@ -1,0 +1,23 @@
+[2026-10-17 04:04:51] 
+[2026-10-17 04:04:51] ================================================================================
+[2026-10-17 04:04:51] PROCESSING SOL-USD
+[2026-10-17 04:04:51] ================================================================================
+[2026-10-17 04:04:51] 
+[2026-10-17 04:04:51] --- STAGE 1: DOWNLOADING DATA ---
+[2026-10-17 04:04:51] Downloading data for SOL-USD (period=30d, interval=4h)...
+[2026-10-17 04:04:51] Data downloaded successfully. Total rows: 176
+[2026-10-17 04:04:51] 
+[2026-10-17 04:04:51] --- STAGE 2: EVALUATING LATEST FORECAST ---
+[2026-10-17 04:04:51] Latest forecast (row 90) is pending. Evaluating...
+[2026-10-17 04:04:51]   ForecastTime:    2026-10-16 04:14:43
+[2026-10-17 04:04:51]   Rounded to:      2026-10-16 04:00:00
+[2026-10-17 04:04:51]   Target windows:  2026-10-16 08:00:00 to 2026-10-17 04:00:00
+[2026-10-17 04:04:51]   Data range:      2026-09-18 00:00:00 to 2026-10-17 04:00:00
+[2026-10-17 04:04:51]   -> Updated ForecastDetails row 90.
+[2026-10-17 04:04:51]   -> Metrics: last_actual=104.73, abs_error=0.02, pct_error=0.02%, mape=0.76%
+[2026-10-17 04:04:51] Pending forecast evaluated.
+[2026-10-17 04:04:51] 
+[2026-10-17 04:04:51] --- STAGE 3: GENERATING NEW FORECAST ---
+[2026-10-17 04:04:51] Running future forecast for horizon=6...
+[2026-10-17 04:04:52] Logged new future forecast ID 90 at row 91. Pending actuals.
+[2026-10-17 04:04:52] SOL-USD completed. Forecast ID: 90
